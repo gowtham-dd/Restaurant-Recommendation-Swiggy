@@ -1,0 +1,5 @@
+*.csv
+*.pkl
+cleaned_data/
+encoded_data/
+logs.txt
